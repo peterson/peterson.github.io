@@ -1,3 +1,20 @@
-name: Digital Samizdat
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Digital Samizdat
+tagline:          'by David Peterson'
+description:      'Occasional thoughts and musings on technology, entrepreneurship and society.'
+url:              http://peterson.github.io
+
+author:
+  name:           'David Peterson'
+  url:            https://twitter.com/dhpeterson
+
+paginate:         10
+
+# Custom vars
