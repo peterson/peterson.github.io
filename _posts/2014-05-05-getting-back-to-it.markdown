@@ -2,7 +2,6 @@
 layout: post
 title:  "Getting back to it"
 date:   2014-05-05 12:07:03
-categories: personal
 ---
 
 Being involved in an early-stage startup from inception through to a point where a basic foundation has seemingly been established is a rewarding yet consuming life experience. Many times over the past three years I have had ideas, insights or experiences that I've wanted to share, or simply to record for my own reference. Regrettably in that time I've dropped off the blogging bandwagon entirely. Utter radio silence.
